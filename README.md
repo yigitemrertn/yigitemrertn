@@ -9,7 +9,7 @@
     Özellikle oyun geliştirme ve .NET teknolojileri üzerine yoğunlaşıyorum.
   </p>
 
-  <a href="https://linkedin.com/in/yiğit emre erten" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://linkedin.com/in/yiğit-emre-erten-918455335/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/32118084" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow"/></a>
   <a href="https://medium.com/@yigitemreerten" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
   <a href="https://www.leetcode.com/morgensonne" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/></a>
