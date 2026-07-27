@@ -1,33 +1,31 @@
-# Hi, I'm Yiğit Emre Erten 👋
+<div align="center">
 
-> Software Engineering Student & Game Developer focused on **C# / .NET** and **Unity**.
+  <h1>Yiğit Emre Erten</h1>
+  
+  <!-- Dinamik Yazı Efekti -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Software+Engineering+Student;Game+Developer+%7C+Unity;C%23+%2F+.NET+Architectures" alt="Typing SVG" />
+  </a>
 
----
+  <br/><br/>
 
-### 💻 About Me
+  <!-- Sosyal Medya Rozetleri -->
+  <a href="https://linkedin.com/in/yiğit-emre-erten-918455335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/32118084"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://medium.com/@yigitemreerten"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.leetcode.com/morgensonne"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:yigitemreerten@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-* 🎓 Studying Software Engineering at Fırat University.
-* 🎮 Passionate about game development mechanics, backend architectures, and clean C# code.
-* 🛠️ Currently building desktop tools, exploring advanced .NET patterns, and working on Unity projects.
+</div>
 
----
-
-### 🛠️ Tech & Tools
-
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,python,java,js,react,mysql,mssql,git,nodejs,photoshop&perline=6)
-
----
-
-### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yi%C4%9Fit-emre-erten-918455335/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32118084)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yigitemreerten)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://www.leetcode.com/morgensonne)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yigitemreerten@gmail.com)
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yigitemrertn&style=flat-square&color=blue" alt="profile counter" />
-</p>
+### ⚡ About Me
+
+```yaml
+Name: Yiğit Emre Erten
+University: Fırat University (Software Engineering)
+Focus: Game Mechanics & C# / .NET Backend Architecture
+Current Goal: Building scalable systems and immersive indie games
